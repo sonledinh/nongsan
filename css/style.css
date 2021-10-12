@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+@font-face {
+  font-family: 'UTM-Avo';
+  src: url("../fonts/avo/UTMAvo-Italic.woff2") format("woff2"), url("../fonts/avo/UTMAvo-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: 'UTM-Avo';
+  src: url("../fonts/avo/UTMAvo.woff2") format("woff2"), url("../fonts/avo/UTMAvo.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'UTM-Avo';
+  src: url("../fonts/avo/UTMAvoBold.woff2") format("woff2"), url("../fonts/avo/UTMAvoBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: 'UTM-Avo';
+  src: url("../fonts/avo/UTMAvo-BoldItalic.woff2") format("woff2"), url("../fonts/avo/UTMAvo-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap; }
+body {
+  box-sizing: border-box;
+  color: #000000;
+  padding: 0 !important;
+  font-size: 14px;
+  line-height: 1.6;
+  transition: .3s all;
+  position: relative;
+  font-weight: 400;
+  font-family: 'UTM-Avo';
+  background: #fff; }
+  body.active {
+    overflow: hidden; }
+  body h1, body h2, body h3, body h4, body h5, body h6, body p, body label, body ul, body li, body .card, body a {
+    text-decoration: none !important;
+    transition: .3s all;
+    margin-bottom: 0;
+    outline: none !important; }
+  body a {
+    transition: .3s all !important;
+    color: #000000; }
+    body a:hover {
+      color: #FD942A; }
+  body ul {
+    padding: 0;
+    margin: 0; }
+  body input, body button {
+    outline: none !important;
+    box-shadow: none;
+    transition: .3s all; }
+  body .slick-slide {
+    height: auto; }
+    body .slick-slide img {
+      display: inline; }
+  body .container {
+    width: 100%;
+    max-width: 1200px; }
+  body img {
+    max-width: 100%; }
+  body .slick-slider {
+    margin-bottom: 0; }
+
+/*# sourceMappingURL=style.css.map */
