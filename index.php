@@ -14,6 +14,7 @@
         </div>
     </section>
     <section class="box-home">
+        <div class="tgiac-abs"><img src="images/tgiac.png" class="img-fluid" alt=""></div>
         <div class="container">
             <div class="title text-center">
                 <h2><span>Nhà Tui Có Gì</span><img src="images/title.png" class="img-fluid" alt=""></h2>
@@ -35,7 +36,7 @@
                     <div class="col-md-4">
                         <div class="item-home text-center">
                             <div class="icon"><a href=""><img src="images/item-2.png" class="img-fluid" alt=""></a></div>
-                            <div class="info">
+                            <div class="info"> 
                                 <h3><a href="">Thực phẩm sống</a></h3>
                             </div>
                         </div>
@@ -78,7 +79,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-1.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-1.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -88,7 +92,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-2.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-2.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -98,7 +105,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-1.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-3.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -108,7 +118,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-2.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-4.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -140,7 +153,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-1.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-1.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -150,7 +166,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-2.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-2.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -160,7 +179,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-1.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-3.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -170,7 +192,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-2.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-4.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -202,7 +227,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-3.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-2.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -212,7 +240,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-4.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-1.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -222,7 +253,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-3.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-4.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -232,7 +266,10 @@
                         <div class="col-md-3">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
-                                <div class="avarta"><a href=""><img src="images/prd-4.png" class="img-fluid w-100" alt=""></a></div>
+                                <div class="avarta">
+                                    <a href=""><img src="images/prd-3.png" class="img-fluid w-100" alt=""></a>
+                                    <div class="avr-abs"><span>MUA NGAY</span></div>
+                                </div>
                                 <div class="info">
                                     <h3><a href="">Khổ qua | Mướp đắng</a></h3>
                                     <p>80.000 đ / Kg</p>
@@ -267,6 +304,7 @@
         </div>
     </section>
     <section class="box-new-home">
+        <div class="tgiac-abs"><img src="images/tgiac.png" class="img-fluid" alt=""></div>t
         <div class="container">
             <div class="title text-center">
                 <h2><span>Blog dinh dưỡng</span><img src="images/title.png" class="img-fluid" alt=""></h2>
@@ -305,13 +343,13 @@
             </div>
         </div>
     </section>
-    <!-- <section class="box-feedback">
+    <section class="box-feedback">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
                     <div class="feed-left">
                         <div class="title">
-                            <h2>Cảm nhận từ khách hàng</h2>
+                            <h2 class="justify-content-start">Cảm nhận từ khách hàng</h2>
                             <p>Mang thiên nhiên đến bữa ăn của bạn</p>
                         </div>
                         <div class="avr-title-fb"><img src="images/av-title.png" class="img-fluid" alt=""></div>
@@ -322,10 +360,16 @@
                         <div class="item-slide">
                             <div class="item-feed">
                                 <div class="user-left">
-                                    <div class="avr-feed"><img src="images/fb-1.png" class="img-fluid" alt=""></div>
+                                    <div class="avr-feed"><img src="images/feedback.png" class="img-fluid" alt=""></div>
                                     <div class="info">
                                         <h6>Hồ Ngọc Trinh</h6>
                                         <p>Nội trợ</p>
+                                    </div>
+                                </div>
+                                <div class="user-detail">
+                                    <div class="desc">
+                                        <p>Do tình hình dịch phức tạp, nên tôi phải mua rau củ online. Tôi chọn Nông Sản Nhà Tui vì rau củ ở đây tươi ngon lắm. Nhân viên bán hàng thì nhiệt tình.</p>
+                                        <div class="line-feed"><img src="images/bg-feed.png" class="img-fluid w-100" alt=""></div>
                                     </div>
                                 </div>
                             </div>
@@ -333,41 +377,59 @@
                         <div class="item-slide">
                             <div class="item-feed">
                                 <div class="user-left">
-                                    <div class="avr-feed"><img src="images/fb-1.png" class="img-fluid" alt=""></div>
+                                    <div class="avr-feed"><img src="images/feedback.png" class="img-fluid" alt=""></div>
                                     <div class="info">
                                         <h6>Hồ Ngọc Trinh</h6>
                                         <p>Nội trợ</p>
                                     </div>
                                 </div>
+                                <div class="user-detail">
+                                    <div class="desc">
+                                        <p>Do tình hình dịch phức tạp, nên tôi phải mua rau củ online. Tôi chọn Nông Sản Nhà Tui vì rau củ ở đây tươi ngon lắm. Nhân viên bán hàng thì nhiệt tình.</p>
+                                        <div class="line-feed"><img src="images/bg-feed.png" class="img-fluid w-100" alt=""></div>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
+                        </div> 
                         <div class="item-slide">
                             <div class="item-feed">
                                 <div class="user-left">
-                                    <div class="avr-feed"><img src="images/fb-1.png" class="img-fluid" alt=""></div>
+                                    <div class="avr-feed"><img src="images/feedback.png" class="img-fluid" alt=""></div>
                                     <div class="info">
                                         <h6>Hồ Ngọc Trinh</h6>
                                         <p>Nội trợ</p>
                                     </div>
                                 </div>
+                                <div class="user-detail">
+                                    <div class="desc">
+                                        <p>Do tình hình dịch phức tạp, nên tôi phải mua rau củ online. Tôi chọn Nông Sản Nhà Tui vì rau củ ở đây tươi ngon lắm. Nhân viên bán hàng thì nhiệt tình.</p>
+                                        <div class="line-feed"><img src="images/bg-feed.png" class="img-fluid w-100" alt=""></div>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
+                        </div> 
                         <div class="item-slide">
                             <div class="item-feed">
                                 <div class="user-left">
-                                    <div class="avr-feed"><img src="images/fb-1.png" class="img-fluid" alt=""></div>
+                                    <div class="avr-feed"><img src="images/feedback.png" class="img-fluid" alt=""></div>
                                     <div class="info">
                                         <h6>Hồ Ngọc Trinh</h6>
                                         <p>Nội trợ</p>
                                     </div>
                                 </div>
+                                <div class="user-detail">
+                                    <div class="desc">
+                                        <p>Do tình hình dịch phức tạp, nên tôi phải mua rau củ online. Tôi chọn Nông Sản Nhà Tui vì rau củ ở đây tươi ngon lắm. Nhân viên bán hàng thì nhiệt tình.</p>
+                                        <div class="line-feed"><img src="images/bg-feed.png" class="img-fluid w-100" alt=""></div>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
+                        </div> 
                     </div>
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
 </main>
 <?php include 'footer.php';?>     
       

@@ -2,7 +2,7 @@
 	<div class="footer-top">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
+				<div class="col-md-5">
 					<div class="item-footer">
 						<div class="logo"><a href=""><img src="images/logo-ft.png" class="img-fluid" alt=""></a></div>
 						<div class="plcae-ft">
@@ -23,16 +23,16 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<div class="item-ft">
 						<div class="title-ft">Danh mục</div>
 						<div class="link-ft">
 							<ul>
-								<li><a href="">Trang chủ</a></li>
-								<li><a href="">Giới thiệu</a></li>
-								<li><a href="">Sản phẩm</a></li>
-								<li><a href="">Blog dinh dưỡng</a></li>
-								<li><a href="">Liên hệ</a></li>
+								<li><a href="">- Trang chủ</a></li>
+								<li><a href="">- Giới thiệu</a></li>
+								<li><a href="">- Sản phẩm</a></li>
+								<li><a href="">- Blog dinh dưỡng</a></li>
+								<li><a href="">- Liên hệ</a></li>
 							</ul>
 						</div>
 					</div>
@@ -44,6 +44,11 @@
 					</div>
 				</div>
 			</div>
+		</div>
+	</div>
+	<div class="copyright text-center">
+		<div class="container">
+			<p>Bản quyền thuộc về Nông Sản Nhà Tui.</p>
 		</div>
 	</div>
 </footer>
