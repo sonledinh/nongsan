@@ -22,7 +22,7 @@ body {
         text-decoration: none !important;        
         transition: .3s all;  
         margin-bottom: 0;  
-        outline: none !important;   
+        outline: none !important;    
     }    
     a { 
         transition: .3s all !important; 
@@ -93,6 +93,11 @@ footer {
     .logo {
         margin-bottom: 20px;
     }
+    @media (max-width: 767px) {
+        .col-md-3 {
+            padding: 30px 15px;
+        }
+    }
 }
 .plcae-ft {
     li {
@@ -134,6 +139,9 @@ footer {
     font-size: 16px;
     color: #fff;
     padding: 0 0 10px 0;
+    @media (max-width: 767px) {
+        font-size: 12px;
+    }
 }
 
 header {
@@ -197,6 +205,11 @@ header {
                 padding-right: 0;
             }
         }
+        .current-menu-item {
+            a {
+                color: #ee3845;
+            }
+        }
     }
     .box-search {
         position: relative;
@@ -221,6 +234,14 @@ header {
             right: 0;
         }
     }
+    @media (max-width: 1200px) {
+        ul {
+            font-size: 15px;
+            li {
+                padding-right: 30px;
+            }
+        }
+    }
 }
 
 .h-header {
@@ -241,5 +262,53 @@ header {
     }
     .hder-right {
         flex: 0 0 calc(100% - 350px);
+    }
+    @media (max-width: 1200px) {
+        .logo {
+            flex: 0 0 250px;
+            a {
+                img {
+                    max-width: 250px;
+                }
+            }
+        }
+        .hder-right {
+            flex: 0 0 calc(100% - 250px);   
+        }
+    }
+}
+
+@media (max-width: 1023px) {
+    header {
+        padding: 5px 0;
+    }
+    .tgiac-abs {
+        display: none;
+    }
+    .header-pc {
+        display: none;
+    }
+    .header-mobile {
+        display: block !important;
+        .logo {
+            img {
+                max-height: 40px;
+            }
+        }
+    }
+    .btn-menu {
+        a {
+            font-size: 22px;
+            color: #3d7200 !important;
+            display: inline-flex;
+            align-items: center;
+        }
+    }
+    #menu {
+        display: none;
+        z-index: 1001;
+        &.mm-menu_opened {
+            display: block;
+        }
     }
 }

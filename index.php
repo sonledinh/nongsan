@@ -25,7 +25,7 @@
             </div>
             <div class="list-item-home">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-4">
                         <div class="item-home text-center">
                             <div class="icon"><a href=""><img src="images/item-1.png" class="img-fluid" alt=""></a></div>
                             <div class="info">
@@ -33,7 +33,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-4">
                         <div class="item-home text-center">
                             <div class="icon"><a href=""><img src="images/item-2.png" class="img-fluid" alt=""></a></div>
                             <div class="info"> 
@@ -41,7 +41,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-4">
                         <div class="item-home text-center">
                             <div class="icon"><a href=""><img src="images/item-3.png" class="img-fluid" alt=""></a></div>
                             <div class="info">
@@ -76,7 +76,7 @@
                 </div>
                 <div class="list-prd">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -89,7 +89,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -102,7 +102,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -115,7 +115,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -150,7 +150,7 @@
                 </div>
                 <div class="list-prd">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -163,7 +163,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -176,7 +176,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -189,7 +189,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -224,7 +224,7 @@
                 </div>
                 <div class="list-prd">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -237,7 +237,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -250,7 +250,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -263,7 +263,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-sm-3 col-6">
                             <div class="item-prd text-center">
                                 <a href="" class="link-prd-abs"></a>
                                 <div class="avarta">
@@ -289,12 +289,12 @@
             </div>
             <div class="list-sale">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-6">
                         <div class="item-sale">
                             <div class="avr-sale"><img src="images/sale-1.png" class="img-fluid w-100" alt=""></div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-6">
                         <div class="item-sale">
                             <div class="avr-sale"><img src="images/sale-2.png" class="img-fluid w-100" alt=""></div>
                         </div>
@@ -304,7 +304,7 @@
         </div>
     </section>
     <section class="box-new-home">
-        <div class="tgiac-abs"><img src="images/tgiac.png" class="img-fluid" alt=""></div>t
+        <div class="tgiac-abs"><img src="images/tgiac.png" class="img-fluid" alt=""></div>
         <div class="container">
             <div class="title text-center">
                 <h2><span>Blog dinh dưỡng</span><img src="images/title.png" class="img-fluid" alt=""></h2>
@@ -312,7 +312,7 @@
             </div>
             <div class="list-news">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-4">
                         <div class="item-news">
                             <div class="avarta"><a href=""><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
                             <div class="info">
@@ -321,7 +321,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-4">
                         <div class="item-news">
                             <div class="avarta"><a href=""><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
                             <div class="info">
@@ -330,7 +330,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-4">
                         <div class="item-news">
                             <div class="avarta"><a href=""><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
                             <div class="info">
