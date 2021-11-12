@@ -1,54 +1,41 @@
-<footer>
+<footer style="background: url('images/bn-ft.jpg') no-repeat center;background-size: cover;">
 	<div class="footer-top">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-5">
-					<div class="item-footer">
-						<div class="logo"><a href=""><img src="images/logo-ft.png" class="img-fluid" alt=""></a></div>
-						<div class="plcae-ft">
+				<div class="col-md-6">
+					<div class="slogan-ft">
+						<h2 class="text-uppercase">Công ty TNHH Năng lượng<br><span>Bình dung</span></h2>
+						<div class="info-fter">
 							<ul>
-								<li><img src="images/i-pl-1.png" class="img-fluid" alt=""><span>Địa chỉ: 403/22 Tân Chánh Hiệp 10, Quận 12, TP. HCM</span></li>
-								<li><img src="images/i-pl-2.png" class="img-fluid" alt=""><span>Liên hệ: 0917678743</span></li>
-								<li><img src="images/i-pl-3.png" class="img-fluid" alt=""><span>E- Mail:  hongyuu2510@gmail.com</span></li>
-								<li><img src="images/i-pl-4.png" class="img-fluid" alt=""><span>Website: www.tenmien.com</span></li>
-							</ul>
-						</div>
-						<div class="social-ft">
-							<ul class="list-inline">
-								<li class="list-inline-item"><span>Mạng xã hội:</span></li>
-								<li class="list-inline-item"><a href=""><img src="images/sc-1.png" class="img-fluid" alt=""></a></li>
-								<li class="list-inline-item"><a href=""><img src="images/sc-2.png" class="img-fluid" alt=""></a></li>
-								<li class="list-inline-item"><a href=""><img src="images/sc-3.png" class="img-fluid" alt=""></a></li>
+								<li><img src="images/ft-1.png" class="img-fluid" alt=""><span>Địa chỉ: 1297A3, Tổ 25, KP Hương Phước, P.Phước Tân, Biên Hòa, Đồng Nai</span></li>
+								<li><img src="images/ft-2.png" class="img-fluid" alt=""><span>Hotline: 0937 535 039 - 0937 786 515</span></li>
+								<li><img src="images/ft-3.png" class="img-fluid" alt=""><span>E - Mail: nangluongbinhdung@gmail.com</span></li>
+								<li><img src="images/ft-4.png" class="img-fluid" alt=""><span>Địa chỉ: www.nangluongbinhdung.com</span></li>
 							</ul>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-3">
-					<div class="item-ft">
-						<div class="title-ft">Danh mục</div>
-						<div class="link-ft">
-							<ul>
-								<li><a href="">- Trang chủ</a></li>
-								<li><a href="">- Giới thiệu</a></li>
-								<li><a href="">- Sản phẩm</a></li>
-								<li><a href="">- Blog dinh dưỡng</a></li>
-								<li><a href="">- Liên hệ</a></li>
-							</ul>
-						</div>
+					<div class="title-ft">Chính sách</div>
+					<div class="link-ft">
+						<ul>
+							<li><a href="">Chính sách bảo mật</a></li>
+							<li><a href="">Chính sách giao hàng</a></li>
+							<li><a href="">Điều khoản</a></li>
+							<li><a href="">Chính sách hỗ trợ</a></li>
+						</ul>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="item-ft">
-						<div class="title-ft">Fanpage</div>
-						<div class="fanpages"><img src="images/danp.png" class="img-fluid w-100" alt=""></div>
-					</div>
+				<div class="col-md-3 text-right">
+					<div class="title-ft">Google Map</div>
+					<div class="maps-ft"><img src="images/map.png" class="img-fluid" alt=""></div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="copyright text-center">
 		<div class="container">
-			<p>Bản quyền thuộc về Nông Sản Nhà Tui.</p>
+			<p>Bản quyền thuộc về Công Ty TNHH Năng Lượng Bình Dung. Thiết kế bới Hover Technology Connection</p>
 		</div>
 	</div>
 </footer>
